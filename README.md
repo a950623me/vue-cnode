@@ -1,29 +1,20 @@
 # vue-cnode
-
-## Project setup
+一个 Vue 的初/中级练手项目：写cnodejs社区
+这个项目参考了某大佬的写法，原出处是(https://github.com/shuiRong/VueCnodeJS)
+PS虽然是部分参照了大佬的写法，也要留下star在走啊，各位大佬们
+###本地运行
 ```
+git clone https://github.com/a950623me/vue-cnode
+cd vue-cnode
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
+###项目依赖
 ```
-npm run build
+vue
+vue-router
+axios
+element-ui
+moment
+less
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

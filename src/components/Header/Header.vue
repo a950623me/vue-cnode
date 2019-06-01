@@ -11,15 +11,15 @@
             <div class='inside-dialog'>
                 <p>
                 作者：
-                <a href="https://linshuirong.cn/" target="_blank" rel="nofollow noopener noreferrer">
-                    林水溶
+                <a href="https://blog.csdn.net/weixin_40147786" target="_blank">
+                    某某某
                 </a>
                 </p>
                 <p>
                 源码：
                 <el-icon type="star" class='el-icon-star-off' />
-                <a href="https://github.com/shuiRong/VueCnodeJS" target="_blank" rel="nofollow noopener noreferrer">
-                    VueCnodeJS
+                <a href="https://github.com/a950623me/vue-cnode" target="_blank" >
+                    Vue-Cnode
                 </a>
                 <el-icon type="star" class='el-icon-star-off' />
                 &nbsp;欢迎Star~&nbsp;
